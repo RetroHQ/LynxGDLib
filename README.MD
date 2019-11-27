@@ -1,4 +1,4 @@
-# Project Title
+# Lynx Game Drive
 
 Library for using features of the LynxGD cartridge for the Atari Lynx from RetroHQ.
 
