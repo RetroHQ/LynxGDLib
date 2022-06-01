@@ -10,6 +10,10 @@ Call LynxGD_Init() first at the beginning of your program before acessing any ot
 
 ## Examples
 
+For any access to the LynxGD features the EEPROM field in the LNX header must be set correctly. See below for reference and how to easily specify this in your Lynx header when using cc65.
+
+https://atarigamer.com/lynx/lnxhdrgen
+
 ### Reading a File
 
 ```
